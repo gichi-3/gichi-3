@@ -6,5 +6,5 @@
 [![MeetsLog](https://github.com/gichi-3/gichi-3/blob/main/assets/logoLargeClear.png?raw=true)](https://www.meetslog.net/)
 
 ### 📝 Skillsheet
-- [日本語]()
-- [English]()
+- [日本語](https://github.com/gichi-3/gichi-3/blob/main/docs/skillsheet/ja.md)
+- [English](https://github.com/gichi-3/gichi-3/blob/main/docs/skillsheet/en.md)
